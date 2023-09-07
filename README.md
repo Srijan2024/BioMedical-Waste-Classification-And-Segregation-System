@@ -1,1 +1,1 @@
-# BioMedical-Waste-Classification-And-Segregation-System
+# Waste-Classifier
